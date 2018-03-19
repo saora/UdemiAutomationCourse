@@ -1,0 +1,19 @@
+2018-01-05 22:25:41 DEBUG LoggingConsole:13 - Debug message logged
+2018-01-05 22:25:41 ERROR LoggingConsole:14 - Error message logged
+2018-01-05 22:32:21 DEBUG LoggingConsole:13 - Debug message logged
+2018-01-05 22:32:21 ERROR LoggingConsole:14 - Error message logged
+2018-01-05 22:32:47 DEBUG LoggingConsole:13 - Debug message logged
+2018-01-05 22:32:47 ERROR LoggingConsole:14 - Error message logged
+2018-01-06 00:05:48 DEBUG LoggingConsole:13 - Debug message logged
+2018-01-06 00:05:48 ERROR LoggingConsole:14 - Error message logged
+2018-01-06 00:06:29 DEBUG LoggingConsole:13 - Debug message logged
+2018-01-06 00:06:29 ERROR LoggingConsole:14 - Error message logged
+2018-01-06 00:13:21 DEBUG LoggingConsole:13 - Debug message logged
+2018-01-06 00:13:21 ERROR LoggingConsole:14 - Error message logged
+2018-01-06 00:16:11 DEBUG LoggingConsole:13 - Debug message logged
+2018-01-06 00:16:11 ERROR LoggingConsole:14 - Error message logged
+2018-01-06 00:16:41 DEBUG LoggingConsole:13 - Debug message logged
+2018-01-06 00:16:41 ERROR LoggingConsole:14 - Error message logged
+2018-01-06 00:30:47 ERROR LoggingFile:10 - Error loggingConsole
+2018-01-06 00:34:39 ERROR LoggingFile:12 - Error loggingConsole
+2018-01-06 00:36:16 ERROR LoggingFile:13 - Error loggingConsole
